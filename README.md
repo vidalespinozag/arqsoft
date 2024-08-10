@@ -1,4 +1,4 @@
-# Banking Platform
+# ARQSOFT Platform
 
 ## Axon Server
 - https://download.axoniq.io/axonserver/AxonServer.zip
